@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureStorageBlobXamarin", "AzureStorageBlobXamarin\AzureStorageBlobXamarin.csproj", "{9565522B-F9ED-49A3-BEC9-C79CBE6DBE50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9565522B-F9ED-49A3-BEC9-C79CBE6DBE50}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{9565522B-F9ED-49A3-BEC9-C79CBE6DBE50}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{9565522B-F9ED-49A3-BEC9-C79CBE6DBE50}.Release|iPhone.ActiveCfg = Release|iPhone
+		{9565522B-F9ED-49A3-BEC9-C79CBE6DBE50}.Release|iPhone.Build.0 = Release|iPhone
+		{9565522B-F9ED-49A3-BEC9-C79CBE6DBE50}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{9565522B-F9ED-49A3-BEC9-C79CBE6DBE50}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{9565522B-F9ED-49A3-BEC9-C79CBE6DBE50}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{9565522B-F9ED-49A3-BEC9-C79CBE6DBE50}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal
