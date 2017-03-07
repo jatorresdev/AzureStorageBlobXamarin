@@ -1,5 +1,6 @@
 ﻿using Foundation;
 using UIKit;
+using XamarinDiplomado.Participants.Startup;
 
 namespace AzureStorageBlobXamarin
 {
@@ -20,6 +21,10 @@ namespace AzureStorageBlobXamarin
 		{
 			// Override point for customization after application launch.
 			// If not required for your application you can safely delete this method
+			Microsoft.WindowsAzure.MobileServices.CurrentPlatform.Init();
+
+			var startup = new Startup("Angel Torres", "jatorresn@outlook.com", 1, 1);
+			startup.Init();
 
 			return true;
 		}
